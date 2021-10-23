@@ -12,5 +12,5 @@ function angkaPalindrome(num) {
   }
   
   // TEST CASES
-  console.log(angkaPalindrome(20));
+  console.log(angkaPalindrome(25));
   
